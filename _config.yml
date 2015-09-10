@@ -3,8 +3,7 @@ title: Samwalker Cheng
 email: samwalker505@gmail.com
 url: https://www.facebook.com/samwalker505
 description: "Samwalker Cheng's personal website, come and discover me"
-skills: "Web Developer - Andriod Designer - Eater"
-quote: "May the codes be ever in your favor"
+skills: "Web Developer - Andriod Developer - Eater - TaoBaoer"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -15,6 +14,9 @@ color:
   primary-rgb: "94,68,133"
   secondary: 171714
   secondary-dark: 233140 #A2122F
+
+profile:
+  size: 280
 
 # Footer settings
 footer:
