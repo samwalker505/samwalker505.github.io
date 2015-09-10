@@ -14,4 +14,22 @@
 .bg-light-gray {
   background-color: #f7f7f7; }
 
+.header-small {
+  height: 200px;
+  padding-top: 100px;
+  text-align: center;
+  color: white;
+  background: #5E4485; }
+
+@media (max-width: 767px) {
+  .header-small {
+    height: 100px; } }
+.track-button-wrapper {
+  margin-top: 25px;
+  float: right; }
+
+.portfolio-img {
+  width: 360px;
+  height: 260px; }
+
 /*# sourceMappingURL=custom.css.map */

@@ -2,6 +2,7 @@
 //colors
 $white:  white;
 $gray-lighter: #f7f7f7;
+$site-primary: #5E4485;
 
 .team-member {
 	text-align: center;
@@ -22,4 +23,33 @@ $gray-lighter: #f7f7f7;
 
 .bg-light-gray {
 	background-color: $gray-lighter;
+}
+
+.header-small {
+		height: 200px;
+		padding-top: 100px;
+    text-align: center;
+    color: $white;
+		background: $site-primary;
+}
+
+@media(max-width:767px){
+	.header-small {
+			height: 100px;
+	}
+}
+
+//header-small
+.hs-description {
+}
+
+//track btn
+.track-button-wrapper {
+	margin-top: 25px;
+	float: right;
+}
+
+.portfolio-img {
+	width: 360px;
+	height: 260px;
 }

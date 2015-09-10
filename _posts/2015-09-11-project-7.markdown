@@ -1,0 +1,13 @@
+---
+layout: default
+title: AfterShip
+modal-id: 7
+date: 2015-09-11
+img: magento-aftership-logo2_2_1.png
+alt: image-alt
+project-date: September 2014
+client: AfterShip
+category: Android Development
+description: AfterShip helps online businesses to track packages and notify customers delivery updates. Improve customer service, generate more businesses and reduce customer enquiries after shipping.<br><br>AfterShip was founded after becoming the winner of 2011 Global Startup Battle and 2011 Startup Weekend Hong Kong in Nov 2011. Since launching its open beta in March 2012, AfterShip has helped thousands of online merchants to send out over 1,000,000 notifications to customers.<br><br><a herf="https://www.aftership.com/">AfterShip</a>
+
+---
