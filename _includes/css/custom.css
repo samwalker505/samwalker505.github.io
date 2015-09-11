@@ -23,9 +23,25 @@
 .header-small {
   height: 200px; }
 
+.header-big {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 200px;
+  padding-bottom: 80px; }
+  .header-big .intro-text .skills {
+    font-size: 1.25em;
+    font-weight: 300; }
+
+.img-centered {
+  margin: 0 auto; }
+
 @media (max-width: 767px) {
   .header-small {
-    height: 100px; } }
+    height: 100px; }
+
+  .header-big {
+    padding-top: 100px;
+    padding-bottom: 50px; } }
 .track-button-wrapper {
   margin-top: 25px;
   float: right; }
