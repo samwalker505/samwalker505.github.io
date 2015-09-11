@@ -52,4 +52,6 @@ $site-primary: #5E4485;
 .portfolio-img {
 	width: 360px;
 	height: 260px;
+	object-fit: scale-down;
+	border: 1px solid #ccc;
 }

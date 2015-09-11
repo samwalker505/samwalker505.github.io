@@ -30,6 +30,8 @@
 
 .portfolio-img {
   width: 360px;
-  height: 260px; }
+  height: 260px;
+  object-fit: scale-down;
+  border: 1px solid #ccc; }
 
 /*# sourceMappingURL=custom.css.map */
