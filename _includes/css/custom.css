@@ -37,11 +37,7 @@
 
 @media (max-width: 767px) {
   .header-small {
-    height: 100px; }
-
-  .header-big {
-    padding-top: 100px;
-    padding-bottom: 50px; } }
+    height: 100px; } }
 .track-button-wrapper {
   margin-top: 25px;
   float: right; }
