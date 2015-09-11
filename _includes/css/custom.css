@@ -28,6 +28,9 @@
   margin-top: 25px;
   float: right; }
 
+@media (max-width: 767px) {
+  .track-button-wrapper {
+    display: none; } }
 .portfolio-img {
   width: 360px;
   height: 260px;

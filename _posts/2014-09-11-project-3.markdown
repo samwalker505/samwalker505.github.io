@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: ideamagnet.png
+alt: image-alt
+project-date: September 2015 - Now
+client: IdeaMagnet
+title: IdeaMagnet
+category: Web Development
+description: The ultimate platform for idea spreading and team forming. <br><br><a href="https://www.ideamag.net">IdeaMagnet</a>
+
+---

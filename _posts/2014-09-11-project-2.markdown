@@ -1,0 +1,13 @@
+---
+title: EventXtra
+layout: default
+modal-id: 2
+date: 2014-09-11
+img: eventxtra.png
+alt: image-alt
+project-date: December 2014
+client: EventXtra
+category: Android Development
+description: Formerly known as PicknPoll, EventXtra is an event automation solution that reduces labor and time costs per event for event organizers, having served clients such as Cyberport, HKUST, InvestHK and more. Details can be found at http://eventx.cc <br><br><a href="https://www.eventxtra.com/">EventXtra</a>
+
+---

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: AfterShip
-modal-id: 7
+modal-id: 1
 date: 2015-09-11
-img: magento-aftership-logo2_2_1.png
+img: aftership.png
 alt: image-alt
 project-date: September 2014
 client: AfterShip
