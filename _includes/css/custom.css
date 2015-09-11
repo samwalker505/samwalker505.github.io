@@ -14,12 +14,14 @@
 .bg-light-gray {
   background-color: #f7f7f7; }
 
-.header-small {
-  height: 200px;
+.header-big, .header-small {
   padding-top: 100px;
   text-align: center;
   color: white;
   background: #5E4485; }
+
+.header-small {
+  height: 200px; }
 
 @media (max-width: 767px) {
   .header-small {

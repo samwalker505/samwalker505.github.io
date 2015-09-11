@@ -26,13 +26,17 @@ $site-primary: #5E4485;
 	background-color: $gray-lighter;
 }
 
-.header-small {
-		height: 200px;
+.header-big, .header-small {
 		padding-top: 100px;
     text-align: center;
     color: $white;
 		background: $site-primary;
 }
+
+.header-small {
+			height: 200px;
+}
+
 
 @media(max-width:767px){
 	.header-small {
@@ -62,53 +66,3 @@ $site-primary: #5E4485;
 	object-fit: scale-down;
 	border: 1px solid #ccc;
 }
-
-//fonts
-$font_0: Montserrat;
-$font_1: Helvetica Neue;
-$font_2: Helvetica;
-$font_3: Arial;
-$font_4: sans-serif;
-
-// .header {
-// 	text-align: center;
-// 	color: $white;
-// 	background: $site-primary;
-// 	.container {
-// 		padding-top: 100px;
-// 		padding-bottom: 50px;
-// 	}
-// 	img {
-// 		display: block;
-// 		margin: 0 auto 20px;
-// 	}
-// 	.intro-text {
-// 		.name {
-// 			display: block;
-// 			text-transform: uppercase;
-// 			font-family: $font_0, $font_1, $font_2, $font_3, $font_4;
-// 			font-size: 2em;
-// 			font-weight: 700;
-// 		}
-// 		.skills {
-// 			font-size: 1.25em;
-// 			font-weight: 300;
-// 		}
-// 	}
-// }
-// @media(min-width:768px) {
-// 	.header {
-// 		.container {
-// 			padding-top: 200px;
-// 			padding-bottom: 100px;
-// 		}
-// 		.intro-text {
-// 			.name {
-// 				font-size: 4.75em;
-// 			}
-// 			.skills {
-// 				font-size: 1.75em;
-// 			}
-// 		}
-// 	}
-// }
