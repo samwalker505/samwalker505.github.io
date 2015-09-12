@@ -45,3 +45,4 @@ credits: 'This website is base on Freelancer. Freelancer is a free to use, open 
 # Build settings
 markdown: kramdown
 permalink: pretty
+destination: /var/www/html/blog
