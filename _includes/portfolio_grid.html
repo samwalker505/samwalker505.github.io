@@ -9,9 +9,9 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.data.companies %}
+                {% for company in site.data.companies %}
                     <div class="col-lg-4 portfolio-item">
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                        <a href="#portfolioModal-{{ company.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption portfolio-img">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
@@ -19,9 +19,9 @@
                             </div>
 
                             <img
-                              src="img/portfolio/{{ post.img }}"
+                              src="img/portfolio/{{ company.img }}"
                               class="portfolio-img img-responsive"
-                              alt="{{ post.alt }}">
+                              alt="{{ company.alt }}">
                         </a>
                     </div>
                 {% endfor %}
