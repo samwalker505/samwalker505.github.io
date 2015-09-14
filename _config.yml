@@ -40,7 +40,7 @@ address:
   - line: Ma On Shan, NT, Hong Kong
 
 # Credits content
-credits: 'This website is base on Freelancer. Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Hi, this website is base on Freelancer. Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
