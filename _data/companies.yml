@@ -1,0 +1,32 @@
+- title: EventXtra
+  layout: default
+  modal-id: 1
+  date: 2015-09-11
+  img: eventxtra.png
+  alt: image-alt
+  project-date: December 2014
+  client: EventXtra
+  category: Android Development
+  description: Formerly known as PicknPoll, EventXtra is an event automation solution that reduces labor and time costs per event for event organizers, having served clients such as Cyberport, HKUST, InvestHK and more. Details can be found at http://eventx.cc <br><br><a href="https://www.eventxtra.com/">EventXtra</a>
+
+- title: AfterShip
+  layout: default
+  modal-id: 2
+  date: 2015-09-11
+  img: aftership.png
+  alt: image-alt
+  project-date: September 2014
+  client: AfterShip
+  category: Android Development
+  description: AfterShip helps online businesses to track packages and notify customers delivery updates. Improve customer service, generate more businesses and reduce customer enquiries after shipping.<br><br>AfterShip was founded after becoming the winner of 2011 Global Startup Battle and 2011 Startup Weekend Hong Kong in Nov 2011. Since launching its open beta in March 2012, AfterShip has helped thousands of online merchants to send out over 1,000,000 notifications to customers.<br><br><a href="https://www.aftership.com/">AfterShip</a>
+
+- title: IdeaMagnet
+  layout: default
+  modal-id: 3
+  date: 2015-09-11
+  img: ideamagnet.png
+  alt: image-alt
+  project-date: September 2015 - Now
+  client: IdeaMagnet
+  category: Web Development
+  description: The ultimate platform for idea spreading and team forming. <br><br><a href="https://www.ideamag.net">IdeaMagnet</a>
