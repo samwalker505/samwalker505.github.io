@@ -36,8 +36,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Kam Tai Court
-  - line: Ma On Shan, NT, Hong Kong
+  - line: Hong Kong
 
 # Credits content
 credits: 'Hi, this website is base on Freelancer. Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
